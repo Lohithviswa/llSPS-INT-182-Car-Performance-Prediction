@@ -37,8 +37,6 @@ h2 {
   color: #cccccc;
 }
 
-
-
 /* STRUCTURE */
 .navbar {
   display: flex;
@@ -50,6 +48,7 @@ h2 {
   box-shadow: 2px 2px 5px grey;
   background-color: #0a090c;
 }
+
 .date {
   display: flex;
   align-items: center;
@@ -108,8 +107,6 @@ h2.active {
   color: #0d0d0d;
   border-bottom: 2px solid #5fbae9;
 }
-
-
 
 /* FORM TYPOGRAPHY*/
 
@@ -176,8 +173,6 @@ input[type=text]:focus {
 input[type=text]:placeholder {
   color: #cccccc;
 }
-
-
 
 /* ANIMATIONS */
 
