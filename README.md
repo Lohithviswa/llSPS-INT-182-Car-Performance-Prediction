@@ -9,12 +9,9 @@ improve the systems fuel consumption and increase the efficiency. The performanc
 no of engine cylinders, fuel type and horsepower etc.These are the factors on which the health of the car can be predicted. 
 It is an on-going process of obtaining, researching, analyzing and recording the health based on the above three factors.
 The performance objectives like mileage, dependability, flexibility and cost can be grouped together to play a vital role in 
-prediction engine and engine management system.This approach is the very important step towards understanding the vehicles performance.
+prediction engine and engine management system. This approach is the very important step towards understanding the vehicles performance.
 
 Solution:
 
-It is an important to analyse the factors using number of well-known approaches of machine learning algorithms 
-like linear regression, decision  tree and random forest to improve the vehicle performance efficiency.The  range, durability 
-and longevity of automotive traction batteries are ‘hot topics’ in automotive engineering. And here we consider a performance in mileage.
-To solve this problem, we will develop the models, using the different algorithms and neural networks. 
+It is an important to analyse the factors using number of well-known approaches of machine learning algorithms like linear regression, decision tree and random forest to improve the vehicle performance efficiency.The  range, durability and longevity of automotive traction batteries are ‘hot topics’ in automotive engineering. And here we consider a performance in mileage. To solve this problem, we will develop the models, using the different algorithms and neural networks. 
 We will then see which algorithm predicts car performance(Mileage) with higher accuracy.
